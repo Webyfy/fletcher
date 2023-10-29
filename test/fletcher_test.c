@@ -1,6 +1,6 @@
 #include <criterion/criterion.h>
 
-#include "../src/fletcher.h"
+#include "fletcher.h"
 
 Test(fletcher, fletcher16)
 {
